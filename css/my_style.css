@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6, .h1 .h2 .h3 .h4 .h5 .h6 {
     --bs-primary:#5CADAD;
     --bs-primary-rgb: 92, 173, 173;
     --bs-secondary:#8E8E8E;
-    --bs-secondary-rgb: 142, 142, 142
+    --bs-secondary-rgb: 142, 142, 142;
 }
 .expedu_icon:hover{
     color: var(--bs-secondary);
