@@ -35,3 +35,6 @@ a{
 .social-icon .social-icon:hover{
     background-color: var(--bs-secondary);
 }
+a:hover{
+    color:#8E8E8E;
+}
