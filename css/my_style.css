@@ -39,5 +39,5 @@ a:hover{
     color:#8E8E8E;
 }
 li{
-    list-style-type: Square;
+    list-style-type: var(--Square);
 }
