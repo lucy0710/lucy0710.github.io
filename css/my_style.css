@@ -39,4 +39,5 @@ a:hover{
     color:#8E8E8E;
 }
 table {width: 80%;}
+th, td: {text-align: right;}
 td {border:1px solid #2a5d44;}
