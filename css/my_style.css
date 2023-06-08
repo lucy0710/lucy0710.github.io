@@ -42,3 +42,14 @@ table {width: 80%;}
 th, td: {text-align: right;}
 td {border-bottom:1px solid #3f294a;}
 td {border:1px solid #2a5d44;}
+
+.btn-primary{
+    color:#000;
+    background-color:#5CADAD;
+    border-color:#5CADAD;
+}
+.btn-primary:hover{
+    color:#000;
+    background-color:#4f8080;
+    border-color:#4f8080;
+}
